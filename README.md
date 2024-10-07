@@ -1,5 +1,8 @@
 # Asterisk PBX Dial Plan Project
 
+# Project location
+Due to its substantial size, the project can be found at [my OneDrive](https://didatec-my.sharepoint.com/:u:/r/personal/bota_io_ioana_student_utcluj_ro/Documents/Proiect%20SCR/AsteriskNOW%20Clone%20SIP_IAX%20final1.0.zip?csf=1&web=1&e=CCvfbq).
+
 ## Project Overview
 This project implements a dial plan for an Asterisk-based PBX system. It includes two SIP subscribers and two IAX2 subscribers, each with specific functionality. The PBX system is set up using AsteriskNOW on a CentOS virtual machine, and the phones are managed using MicroSIP and ZoIPer software.
 
@@ -23,6 +26,3 @@ This project implements a dial plan for an Asterisk-based PBX system. It include
 
 ## Acknowledgments
 The project follows guidelines from the course at [UTCluj](https://el.el.obs.utcluj.ro/scr/Teme_proiect.htm).
-
-# Project location
-Due to its substantial size, the project can be found at [my OneDrive](https://didatec-my.sharepoint.com/:u:/r/personal/bota_io_ioana_student_utcluj_ro/Documents/Proiect%20SCR/AsteriskNOW%20Clone%20SIP_IAX%20final1.0.zip?csf=1&web=1&e=CCvfbq).
